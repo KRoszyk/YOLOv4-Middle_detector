@@ -29,9 +29,9 @@ https://soonminhwang.github.io/rgbt-ped-detection/data/
 
 - **configs.py** - contains all configurations needed to launch YOLO4-Middle training and evaluation.
 - **yolov4_f.py** - contains all DL blocks and backbone modifications.
-- **evaluate_mAP** - contains calculations of mAP metric.
+- **evaluate_mAP.py** - contains calculations of mAP metric.
 - **train.py** - contains training code.
-- **convert_to_trt** - contains code allowing to transform the model to TensorRT, what increases number of FPS.
+- **convert_to_trt.py** - contains code allowing to transform the model to TensorRT, what increases number of FPS.
 
 ### Example performance of YOLO4-middle detector during night
 <p align="center">
