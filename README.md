@@ -1,4 +1,6 @@
 # YOLOv4-Middle detector
+[![DOI](https://zenodo.org/badge/385551271.svg)](https://zenodo.org/badge/latestdoi/385551271)
+
 An enhanced version of the YOLOv4 detector, which is a middle fusion method and combines RGB and thermal images for pedestrian detection.
 
 This code was used in a paper by K. Roszyk, M. Nowicki and P. Skrzypczynski entitled:
